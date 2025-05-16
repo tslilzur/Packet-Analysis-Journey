@@ -8,7 +8,7 @@ it is highly
  
 # Packet-Analysis-Journey 
 Learning to analyze network packets using Wireshark. Logs, notes, and progress.
-# Wireshark Labs - to day the 16-may-2025 im starting to jorneyl my way to be a soc analys 
+# Wireshark Labs - today the 16-may-2025 im starting to jorneyl my way to be a soc analys 
 ive started this lab as part of my learing path way, it was approximately month since I started, at the 15-may-2025 ive completed the room wireshark
 
 This repo tracks my learning progress with Wireshark.  
@@ -19,5 +19,8 @@ A month ago, network traffic looked like gibberish — now I can analyze TCP han
 - TryHackMe SOC 1 pathway
 
 
-            
+ next on line is - Zeek joind  16-may-2025 
+ Introduction to hands-on network monitoring and threat detection with Zeek (formerly Bro).    
+
+ 
 
