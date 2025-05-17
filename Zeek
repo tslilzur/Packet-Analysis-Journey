@@ -1,3 +1,32 @@
 Welcome, this is my documenting of the room zeek in try hack me this is a fresh clean start for me documenting my process of learning in the SOC 1 pathway
 
+# 🕵️ Zeek Network Monitoring Tool - Learning Notes
+
+## 📅 Date Started
+May 17, 2025
+
+## 📦 Module
+TryHackMe - SOC Level 1 Pathway: Zeek Module
+
+---
+
+## 🧠 What is Zeek?
+Zeek is an open-source network security monitor. It inspects traffic and logs detailed network behavior.
+
+## 🔧 What Zeek Does
+- Analyzes PCAP traffic
+- Outputs readable logs (`conn.log`, `dns.log`, `http.log`, etc.)
+- Can be scripted for custom detections
+
+---
+
+## ✅ Completed Lessons
+- ✅ Intro to Zeek
+- ✅ Zeek Logs Overview
+- ✅ Filtering by Protocol
+- ✅ Hands-on with `conn.log`
+
+---
+
+
 
