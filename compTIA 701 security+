@@ -1,0 +1,61 @@
+Force for example, this is how I made the ChatGPT prompt to teach me to prepare for the copmTIA 701 exam, I will take PDF files from known resources that help prepare for the exam. I will paste the question in ChatGPT right after he will let me know :
+what is the right answer right?
+Why the wrong answers are wrong?
+He will give me a real life example of the use 
+He will try to give me like a memory hook that can be helpful in the exam
+I also ask him to try reverse the question - so he will ask me something different. What is the same logic to try and make me think?
+And finally, he will try to teach me if for example a new term is coming up. It will be helpful to try to read about it and try to understand and then I will take notes.
+
+So this is how I've been preparing for the exam and hopefully I will pass
+
+
+
+
+
+
+Question:
+A cybersecurity analyst is investigating a suspicious image file received via email. Upon closer examination, the analyst suspects that the image might be carrying hidden data because the file size is unusually large. Which technique might the sender have used to embed secret information within the image?
+
+A. Symmetric encryption
+B. Digital watermarking
+C. Steganography
+D. Hashing
+
+⸻
+
+🔍 What hides secret data in plain sight?
+
+⬇️
+⬇️
+⬇️
+
+⸻
+
+✅ Correct Answer: C. Steganography
+
+⸻
+
+🧠 Why it’s correct:
+• Steganography embeds hidden data inside files like images or audio.
+• The carrier file looks normal but contains concealed content.
+• Large file size is often a giveaway.
+
+❌ Why the others are wrong:
+• A. Encryption hides content — not within other files.
+• B. Watermarking is for ownership — not secrecy.
+• D. Hashing validates integrity — doesn’t hide content.
+
+🌍 Real-World Tie-In:
+Malware and espionage campaigns sometimes use steganography to sneak payloads past filters.
+
+🧠 Memory Hook:
+“Stego = stealthy pixels.”
+
+🔁 Reverse Question:
+What technique hides secret data inside an image or audio file?
+💡 Answer: Steganography
+
+📘 Teach Me:
+Steganography differs from encryption: it hides the existence of the data, not just its content.
+
+⸻
