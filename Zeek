@@ -11,20 +11,26 @@ TryHackMe - SOC Level 1 Pathway: Zeek Module
 ---
 
 ## 🧠 What is Zeek?
-Zeek is an open-source network security monitor. It inspects traffic and logs detailed network behavior.
+zeek is use for network monitoring can be used for later network trafic analsys or investigation
+aim t o detect and reduse network probloms 
+
+says to be heave part of daily IT/SOC opertions 
+it is differs from network security monitoring in its porpes 
+
+highly focuse on IT : 
+assets like uptime - availability
+device healty and connection quality - predormance 
+network balance and mangement - configuration 
+
+next is to open zeek lab and try getting my hands ''weet'' with some simples commends
 
 ## 🔧 What Zeek Does
 - Analyzes PCAP traffic
-- Outputs readable logs (`conn.log`, `dns.log`, `http.log`, etc.)
-- Can be scripted for custom detections
 
 ---
 
 ## ✅ Completed Lessons
-- ✅ Intro to Zeek
-- ✅ Zeek Logs Overview
-- ✅ Filtering by Protocol
-- ✅ Hands-on with `conn.log`
+
 
 ---
 
