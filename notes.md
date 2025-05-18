@@ -1,4 +1,4 @@
-# 🧪 Wireshark Lab - TCP Handshake
+# 🧪 Wireshark Lab 
 
 ## ✅ What I Did
 - Followed the TryHackMe "Wireshark" lab
@@ -18,9 +18,11 @@ Those are examples of notes that I used to take on my notebook and later on in t
 ![IMG_0266 2](https://github.com/user-attachments/assets/a349bc88-789e-409b-9510-a5b0ebd67045)
 ![IMG_0265 2](https://github.com/user-attachments/assets/4702e4dc-d4e9-4922-83de-6bfe7cf96f10)
 
-- Captured network traffic using Wireshark
-- Focused on filtering TCP handshakes
 
-## 🧠 What I Learned
-- How a 3-way handshake works: SYN → SYN/ACK → ACK
-- How to apply filters in Wireshark: 
+so this is a long 3 parts room for wireshark 
+
+# The Basics 
+
+
+
+
