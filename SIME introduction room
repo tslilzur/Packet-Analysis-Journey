@@ -1,0 +1,34 @@
+SIME - Standard info and event management system at all that collect data from some end points and hardware devices across the Internet and store them
+Each network component one or more create logs and store them - the source of logs
+
+For example, it will be easy to divide to 2 sections : 
+
+- host centric logs : 
+User access a file
+Users might attempt authentication
+
+- network eccentric logs: 
+SHH connection
+Web traffic
+User connecting to a VPN
+
+Then why using? SIME - end points generate hundreds of blocks per seconds to try examine them one by one it will be impossible. SIME to help with that.
+Every device in the network generate logs, whatever it's performed in action, in Windows any event can be viewed. Any event can get assigned with a special ID that make it easier to track.
+
+In linux logs are stored than investigated with a steam tool 
+Web server : it is important to keep eye on web traffic in and out (request and response) for any potential attack
+It helps getting a better picture of what's going on on the network alarming if needed it is collecting the data examine it and let analysis know if something suspicious is coming
+For example, monitoring false positives and examining network traffic for detection of anomalies or suspicious behaviours
+All of these can be done with the help of the SIME tool 
+
+
+
+
+
+
+
+
+
+
+
+
